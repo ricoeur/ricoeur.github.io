@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ricoeur.github.io</id>
     <title>花月痕</title>
-    <updated>2021-01-01T14:51:18.125Z</updated>
+    <updated>2021-01-02T14:50:21.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ricoeur.github.io"/>
     <link rel="self" href="https://ricoeur.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://ricoeur.github.io/images/avatar.png</logo>
     <icon>https://ricoeur.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 花月痕</rights>
+    <entry>
+        <title type="html"><![CDATA[时间轴]]></title>
+        <id>https://ricoeur.github.io/post/gUhiEd--C/</id>
+        <link href="https://ricoeur.github.io/post/gUhiEd--C/">
+        </link>
+        <updated>2021-01-02T12:47:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>差点破功，中午从超市回来就在玩纸牌游戏，反复想打开小说网站，还有那个啥网站，还好到现在都没有19:11戒断标记1<br>
+20:37一直做的那个（把文字版的书籍导入mybase）到底有没有意义呢？是不是毫无意义的消耗呢？导进去不等于读了，这个我一直都明白，……现在着手苏轼这个，要不要这么做，第一个问题是，这个诗文集按什么来排列，孔凡礼的整理之功被朱刚批评失去东坡七集的本来面貌，按东坡七集？<br>
+22:48是读一首放一首还是把所有的内容一下子全放进去。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>差点破功，中午从超市回来就在玩纸牌游戏，反复想打开小说网站，还有那个啥网站，还好到现在都没有19:11戒断标记1<br>
+20:37一直做的那个（把文字版的书籍导入mybase）到底有没有意义呢？是不是毫无意义的消耗呢？导进去不等于读了，这个我一直都明白，……现在着手苏轼这个，要不要这么做，第一个问题是，这个诗文集按什么来排列，孔凡礼的整理之功被朱刚批评失去东坡七集的本来面貌，按东坡七集？<br>
+22:48是读一首放一首还是把所有的内容一下子全放进去。</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[异议的正当性]]></title>
         <id>https://ricoeur.github.io/post/9NAzgtAm9/</id>

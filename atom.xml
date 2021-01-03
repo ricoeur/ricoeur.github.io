@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ricoeur.github.io</id>
     <title>花月痕</title>
-    <updated>2021-01-03T13:03:43.893Z</updated>
+    <updated>2021-01-03T15:20:26.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ricoeur.github.io"/>
     <link rel="self" href="https://ricoeur.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://ricoeur.github.io/images/avatar.png</logo>
     <icon>https://ricoeur.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 花月痕</rights>
+    <entry>
+        <title type="html"><![CDATA[郭纶]]></title>
+        <id>https://ricoeur.github.io/post/b4eiZy89E/</id>
+        <link href="https://ricoeur.github.io/post/b4eiZy89E/">
+        </link>
+        <updated>2021-01-03T15:10:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>郭纶<br>
+纶本河西弓箭手，屡战有功，不赏。自黎州都监官满，贫不能归。今权嘉州监税。<br>
+河西猛士无人识，日暮津亭阅过船。<br>
+路人但觉骢马瘦，不知铁槊大如椽。<br>
+因言西方久不战，截发愿作万骑先。<br>
+我当凭轼与寓目，看君飞矢射蛮毡。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>郭纶<br>
+纶本河西弓箭手，屡战有功，不赏。自黎州都监官满，贫不能归。今权嘉州监税。<br>
+河西猛士无人识，日暮津亭阅过船。<br>
+路人但觉骢马瘦，不知铁槊大如椽。<br>
+因言西方久不战，截发愿作万骑先。<br>
+我当凭轼与寓目，看君飞矢射蛮毡。</p>
+<!-- more -->
+<p>嘉祐四年，《南行集》第一首。嘉州今乐山。<br>
+纪昀，首二句写出英雄失路之概。颇作意态而不免浅弱，病在五句接落少力，而五句之少力则病在“因言”二字之板滞也。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[广长舌]]></title>
         <id>https://ricoeur.github.io/post/0QInE8hOB/</id>

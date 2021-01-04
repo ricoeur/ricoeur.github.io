@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ricoeur.github.io</id>
     <title>花月痕</title>
-    <updated>2021-01-04T02:59:37.151Z</updated>
+    <updated>2021-01-04T14:06:41.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ricoeur.github.io"/>
     <link rel="self" href="https://ricoeur.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://ricoeur.github.io/images/avatar.png</logo>
     <icon>https://ricoeur.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 花月痕</rights>
+    <entry>
+        <title type="html"><![CDATA[随感210104]]></title>
+        <id>https://ricoeur.github.io/post/X29NOCIhI/</id>
+        <link href="https://ricoeur.github.io/post/X29NOCIhI/">
+        </link>
+        <updated>2021-01-04T14:04:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>听了一集颜昆阳讲李杜诗。令人奇怪的，辅仁那边对郭沫若竟然如此陌生。其实这边对郭沫若也大概知道名字，于其学术成就则了解不足，应该对郭沫若那一代人保持作够的敬意才对。单现代文就足够不朽了，何况还有那么多通古通外的学术著作。<br>
+苏轼开始在头条上传了，希望能赚个小钱，不介意5篇的限制，随看随写，撒网，捞上鱼就捞，捞不上也没关系。<br>
+苏轼诗评中纪昀真是清流，审美品味好，有立足于文学。<br>
+又在微薄上看到拜登出事儿的假消息，大概过了6号就彻底消停了。<br>
+在小众软件访问次数上了榜，好吧，别去了。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>听了一集颜昆阳讲李杜诗。令人奇怪的，辅仁那边对郭沫若竟然如此陌生。其实这边对郭沫若也大概知道名字，于其学术成就则了解不足，应该对郭沫若那一代人保持作够的敬意才对。单现代文就足够不朽了，何况还有那么多通古通外的学术著作。<br>
+苏轼开始在头条上传了，希望能赚个小钱，不介意5篇的限制，随看随写，撒网，捞上鱼就捞，捞不上也没关系。<br>
+苏轼诗评中纪昀真是清流，审美品味好，有立足于文学。<br>
+又在微薄上看到拜登出事儿的假消息，大概过了6号就彻底消停了。<br>
+在小众软件访问次数上了榜，好吧，别去了。</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[广长舌]]></title>
         <id>https://ricoeur.github.io/post/0QInE8hOB/</id>

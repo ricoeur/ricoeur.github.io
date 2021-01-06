@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ricoeur.github.io</id>
     <title>花月痕</title>
-    <updated>2021-01-05T13:57:05.362Z</updated>
+    <updated>2021-01-06T15:05:08.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ricoeur.github.io"/>
     <link rel="self" href="https://ricoeur.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://ricoeur.github.io/images/avatar.png</logo>
     <icon>https://ricoeur.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 花月痕</rights>
+    <entry>
+        <title type="html"><![CDATA[不回家]]></title>
+        <id>https://ricoeur.github.io/post/4Ga_s9KYf/</id>
+        <link href="https://ricoeur.github.io/post/4Ga_s9KYf/">
+        </link>
+        <updated>2021-01-06T15:04:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>破戒2<br>
+回家吗？不回家吗？河北突然厉害起来，闹得人心惶惶，我还要不要回家。<br>
+其实我内心还蛮希望回家的，然后被滞留在家，这样也可以和父母待一段时间，总觉得上学以来、毕业以来几乎没有和父母在一起住的时间超过两个月，又想起来是在博士最后一年实际在家住了半年。所以，不回了。<br>
+还等着明天可以全额退票的时间，退掉火车票。<br>
+在头条继续发苏轼，它有一个设定发布时间，我可以把这些提前弄好，设定好时间，就不用管他，但恶心的是它说有一个高度重复，重复的内容只是有一个问答，询问怎么翻译，我开始申诉一下，不通过，修改又说我修改太多，一生气直接删除，重新发布。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>破戒2<br>
+回家吗？不回家吗？河北突然厉害起来，闹得人心惶惶，我还要不要回家。<br>
+其实我内心还蛮希望回家的，然后被滞留在家，这样也可以和父母待一段时间，总觉得上学以来、毕业以来几乎没有和父母在一起住的时间超过两个月，又想起来是在博士最后一年实际在家住了半年。所以，不回了。<br>
+还等着明天可以全额退票的时间，退掉火车票。<br>
+在头条继续发苏轼，它有一个设定发布时间，我可以把这些提前弄好，设定好时间，就不用管他，但恶心的是它说有一个高度重复，重复的内容只是有一个问答，询问怎么翻译，我开始申诉一下，不通过，修改又说我修改太多，一生气直接删除，重新发布。</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虾米]]></title>
         <id>https://ricoeur.github.io/post/Ol833jBi2/</id>

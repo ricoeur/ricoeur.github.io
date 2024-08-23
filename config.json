@@ -1,6 +1,12 @@
 {
-    "title":"test",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"花月痕",
+    "subTitle":"ARIOSTO'S WEBLOG",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/13033076?v=4",
+    "GMEEK_VERSION":"last",
+    "bottomText":"人生看得几清明",
+    "urlMode":"issue",
+    "singlePage":["about"],
+    "yearColorList":["#546e7a", "#455a64","#37474f","#263238"],
+    "needComment":0,
+    "startSite":"05/27/2024"
 }

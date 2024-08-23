@@ -1,1 +1,1 @@
-{"P1": {"labels": ["about"], "postTitle": "test", "postUrl": "post/test.html", "createdDate": "2024-08-23", "dateLabelColor": "#bc4c00"}, "labelColorDict": {"about": "#c5def5", "\u5176\u4ed6": "#E99695", "\u591c\u8bfb\u6284": "#1D76DB", "\u968f\u611f\u5f55": "#0E8A16"}}
+{"P1": {"labels": ["about"], "postTitle": "about", "postUrl": "post/about.html", "createdDate": "2024-08-23", "dateLabelColor": "#bc4c00"}, "labelColorDict": {"about": "#c5def5", "\u5176\u4ed6": "#E99695", "\u591c\u8bfb\u6284": "#1D76DB", "\u968f\u611f\u5f55": "#0E8A16"}}

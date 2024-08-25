@@ -1,2 +1,2 @@
-[花月旧痕](https://ricoeur.github.io/ricoeur/)，使用[Gmeek](https://meekdai.com/Gmeek.html)构建的第一版。所以由花月痕变成花月旧痕了。
-我[在豆瓣](https://www.douban.com/people/ricoeur)的主页。此前[about](https://ricoeur.github.io/about.html)页面已经添加过了。
+[花月旧痕](https://ricoeur.github.io/ricoeur/)，使用[Gmeek](https://meekdai.com/Gmeek.html)构建的第一版小站。所以由“花月痕”变成“花月旧痕”了。
+我[在豆瓣](https://www.douban.com/people/ricoeur)的主页。此前[about](https://ricoeur.github.io/about.html)页面已经添加过了，尽管可能没有人在意。

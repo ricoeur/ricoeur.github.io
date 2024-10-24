@@ -6,4 +6,3 @@
 6.表达无处可放，于是沉默不言
 7.鲁迅先生说：“无穷的远方，无穷的人们，都与我有关”。
 8.我只是一个无名小卒，来写blog已经是最大的勇气了。
-9.This message is used to verify that this feed (feedId:72399056998076416) belongs to me (userId:69749277124059136). 

@@ -1,0 +1,1 @@
+颜昆阳教授的论文选题正好都是我喜欢的，在[颜昆阳文学馆网站](https://www.yenkunyang.org/)上有部分论文，存储在Google drive，可惜下载困难，几乎想尽了各种办法，最终解决的方法是通过Adobe acrobat for Google打开，然后顺利下载，[需要登录Google，然后在打开方式一栏，选择其他方式，而原生的Google文档会将PDF的文字大乱]，而Google drive 其他打开方式限制很多。

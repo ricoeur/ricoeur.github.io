@@ -1,0 +1,1 @@
+a plan or idea about how to do something
